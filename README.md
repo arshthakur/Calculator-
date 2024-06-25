@@ -19,7 +19,7 @@ The **React Calculator** is a simple and intuitive web application that performs
 
 ### Calculator Interface
 
-![Calculator Interface](src/assets/Screenshots.png)
+![Calculator Interface](src/assets/Screenshot.png)
 
 ## Installation
 
