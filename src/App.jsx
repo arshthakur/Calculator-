@@ -22,6 +22,7 @@ const onButtonClicked=(buttonText)=>{
 }
    return (
    <center>
+    <h1>CALCULATOR</h1>
    <div className={styles.calculator}>
      <Display displayValue={calVal}></Display>
     <ButtonsContainer onButtonClicked = {onButtonClicked}
